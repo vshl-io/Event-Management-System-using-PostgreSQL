@@ -4,7 +4,7 @@ This repository contains SQL scripts for building and managing an Event Manageme
 
 ## Files
 
-- `event_management.sql` — Includes table creation, data insertion, and query scripts.
+- `events_management.sql` — Includes table creation, data insertion, and query scripts.
 - `screenshots/` — Contains screenshots of executed queries and results.
 
 ## Features Implemented
